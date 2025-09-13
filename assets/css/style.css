@@ -13,15 +13,15 @@
     --red: #dc3545;
     --orange: #fd7e14;
     --yellow: #ffc107;
-    --green: #28a745;
-    --teal: #20c997;
+    --green: #ff0000;
+    --teal: #ff0000;
     --cyan: #17a2b8;
     --white: #fff;
     --gray: #6c757d;
     --gray-dark: #343a40;
     --primary: #007bff;
     --secondary: #6c757d;
-    --success: #28a745;
+    --success: #ff0000;
     --info: #17a2b8;
     --warning: #ffc107;
     --danger: #dc3545;
@@ -478,7 +478,7 @@ small {
 
 code {
     font-size: 87.5%;
-    color: #e83e8c;
+    color: #ff0000;
     word-wrap: break-word
 }
 
@@ -701,12 +701,12 @@ a.text-secondary:hover {
 }
 
 .text-success {
-    color: #28a745 !important
+    color: #ff0000 !important
 }
 
 a.text-success:focus,
 a.text-success:hover {
-    color: #19692c !important
+    color: #ff0000 !important
 }
 
 .text-info {
@@ -715,7 +715,7 @@ a.text-success:hover {
 
 a.text-info:focus,
 a.text-info:hover {
-    color: #0f6674 !important
+    color: #ff0000 !important
 }
 
 .text-warning {
@@ -1428,11 +1428,11 @@ h1 .subtitle {
     font-size: 1.25rem;
     font-weight: 500;
     letter-spacing: -.03em;
-    color: #a3ff12
+    color: #ff0000
 }
 
 h1 .subtitle.subtitle--warning {
-    color: #f7ff2a
+    color: #ff0000
 }
 
 h1 .subtitle.subtitle--danger {
@@ -1510,7 +1510,7 @@ a[href^="mailto:"]:hover {
 }
 
 .color-warning {
-    color: #fc0
+    color: rgb(255, 0, 0)
 }
 
 .list-inline,

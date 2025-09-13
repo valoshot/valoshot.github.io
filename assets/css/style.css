@@ -2493,7 +2493,7 @@ input[type=submit].btn-block {
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-    background-color: #a3ff12;
+    background-color: #ff0000;
     overflow: hidden
 }
 

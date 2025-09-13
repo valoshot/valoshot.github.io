@@ -2084,7 +2084,7 @@ fieldset[disabled] a.btn {
 
 .btn-primary {
     color: #222430;
-    background-color: #a3ff12
+    background-color: #ff0000
 }
 
 .btn-primary:hover {
@@ -2099,7 +2099,7 @@ fieldset[disabled] a.btn {
 
 .btn-secondary:hover {
     color: #222430;
-    background-color: #a3ff12
+    background-color: #ff0000
 }
 
 .btn-tertiary {
@@ -2114,12 +2114,12 @@ fieldset[disabled] a.btn {
 
 .btn-success {
     color: #fff;
-    background-color: #88df00
+    background-color: #ff0000
 }
 
 .btn-success:hover {
     color: #fff;
-    background-color: #a3ff13
+    background-color: #ff0000
 }
 
 .btn-danger {
@@ -2188,7 +2188,7 @@ fieldset[disabled] a.btn {
 
 .btn-link:focus,
 .btn-link:hover {
-    color: #a3ff12;
+    color: #ff0000;
     text-decoration: none;
     background-color: transparent
 }
@@ -2221,7 +2221,7 @@ fieldset[disabled] a.btn {
     width: 40px;
     vertical-align: middle;
     margin-right: 1.5rem;
-    background-color: #a3ff12
+    background-color: #ff0000
 }
 
 @media (min-width:768px) {
@@ -2348,11 +2348,10 @@ input[type=submit].btn-block {
 }
 
 .btn--landing.btn-primary:before {
-    background-color: #90eb00
-}
+    background-color: #ff0000
 
 .btn--landing.btn-primary:after {
-    background-color: #88de00
+    background-color: #ff0000
 }
 
 .btn--landing.btn-secondary {
@@ -2384,11 +2383,11 @@ input[type=submit].btn-block {
 }
 
 .btn--landing.btn-success:before {
-    background-color: #71b900
+    background-color: #ff0000
 }
 
 .btn--landing.btn-success:after {
-    background-color: #69ac00
+    background-color: #ff0000
 }
 
 .btn--landing.btn-info {
@@ -7612,7 +7611,7 @@ html.touch .social-menu.social-menu--header {
         height: 6px;
         transform: translate(-50%, -50%);
         border-radius: 50%;
-        background-color: #a3ff12;
+        background-color: #ff0000;
         opacity: 1
     }
     #df-custom-cursor:after {
@@ -7626,7 +7625,7 @@ html.touch .social-menu.social-menu--header {
         width: 30px;
         height: 30px;
         border-radius: 50%;
-        border: 1px solid #a3ff12;
+        border: 1px solid #ff0000;
         opacity: .5
     }
 }
